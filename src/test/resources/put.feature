@@ -12,4 +12,3 @@ Funcionalidade: pesquisa de Usuario
     Exemplos:
       | id          | username   | firstname | lastname | email                | password | phone         | userStatus | code | type      | message     |
       | "119740511" | "AnaClaraWC" | "Ana"     | "ClaraWC"  | "anaclaraWC@teste.com" | "123456" | "11999990001" | 1          | 200  | "unknown" | "119740511" |
-      | "219740511" | "JucaPatoWC" | "Juca"    | "PatoWC"   | "jucapatoWC@teste.com" | "654321" | "11999990002" | 1          | 200  | "unknown" | "219740511" |

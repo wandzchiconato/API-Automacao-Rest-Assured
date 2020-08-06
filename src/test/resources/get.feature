@@ -11,4 +11,4 @@ Funcionalidade: pesquisa de Usuario
 
     Exemplos:
       | id          | username   | firstname | lastname | email                | password | phone         | userStatus | code | type      | message     |
-      | "119740511" | "AnaWandz" | "Ana"     | "Clara"  | "anaclara@teste.com" | "123456" | "11999990001" | 1          | 200  | "unknown" | "119740511" |
+      | "119740511" | "AnaClaraWC" | "Ana"     | "Clara"  | "anaclara@teste.com" | "123456" | "11999990001" | 1          | 200  | "unknown" | "119740511" |
